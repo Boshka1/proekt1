@@ -12,7 +12,7 @@ export function initFormSubmission() {
   
 		const formData = new FormData(feedbackForm);
   
-		fetch('https://formcarry.com/s/U1_4O8sQsWN', {
+		fetch('https://formcarry.com/s/GNUZA7_lclc', {
 			method: 'POST',
 			headers: {
 				Accept: 'application/json',
